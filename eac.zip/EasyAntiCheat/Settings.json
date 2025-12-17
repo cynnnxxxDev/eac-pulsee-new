@@ -1,0 +1,11 @@
+{
+  "title": "Beyond",
+  "executable": "FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe",
+  "productid": "257a9a9d2e4d4bc59c14e46d248b9cc0",
+  "sandboxid": "42b0c2b1d4684017bf0d7731a0fc6467",
+  "deploymentid": "b57ef04e023a499fa3eaa15f9d810654",
+  "requested_splash": "EasyAntiCheat/SplashScreen.png",
+  "wait_for_game_process_exit": "false",
+  "hide_bootstrapper": "false",
+  "hide_gui": "false"
+}
